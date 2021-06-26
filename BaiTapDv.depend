@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623591240 source:g:\projectdv\funcion.cpp
+	"Funcion.h"
+
+1623161083 g:\projectdv\funcion.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<math.h>
+
+1623591116 source:g:\projectdv\main.cpp
+	"Funcion.h"
+
